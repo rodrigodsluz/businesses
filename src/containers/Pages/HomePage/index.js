@@ -132,6 +132,7 @@ const HomePage = () => {
         title="About Us"
         images={about}
         pragraphs={aboutText}
+        s
       />
       <ServiceArea
         className="ourServiceArea"
