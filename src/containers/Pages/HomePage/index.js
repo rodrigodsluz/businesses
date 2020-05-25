@@ -24,22 +24,22 @@ const aboutText = [
 const heroSliders = [
   {
     images: "slideWrapperOne",
-    title: "Injury Attorneys",
-    subTitle: "(718) 492 - 4444",
+    title: "Coma açaí a vontade",
+    subTitle: "(35) 6 6666-6666",
     text: "Shakhnevich Law Group",
     button: "Contact us now",
   },
   {
     images: "slideWrapperTwo",
-    title: "Free Consultation",
+    title: "Estamos abertos o dia inteiro",
     subTitle: "24 hours 7 days a week",
     text: "Shakhnevich Law Group",
     button: "Contact us now",
   },
   {
     images: "slideWrapperThree",
-    title: "We speak your language",
-    subTitle: "Español - Русский - Uzbek - ქართული",
+    title: "Temos diversas categorias",
+    subTitle: "Leite em pó, alface, carne humana",
     text: "Shakhnevich Law Group",
     button: "Contact us now",
   },
