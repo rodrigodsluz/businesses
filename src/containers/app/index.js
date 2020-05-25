@@ -17,8 +17,6 @@ import AttorneysPage from "../Pages/AttorneysPage";
 import StevenShakhnevichPage from "../Pages/StevenShakhnevichPage";
 import MarthaTabachnikovaPage from "../Pages/MarthaTabachnikovaPage";
 import ContactPage from "../Pages/ContactPage";
-import MainPage from "../Pages/MainPage";
-import "./App.css";
 
 class App extends Component {
   render() {
@@ -83,7 +81,6 @@ class App extends Component {
               component={MarthaTabachnikovaPage}
             />
             <Route exact path="/contact" component={ContactPage} />
-            <Route exact path="/main-page" component={MainPage} />
           </Switch>
         </BrowserRouter>
       </Fragment>

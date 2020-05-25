@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo from "../../images/logo/logo-unifei-oficial.png";
+import logo from "../../images/logo/logo.png";
 import "./style.scss";
 
 const HeaderBottom = (props) => {
@@ -30,9 +30,6 @@ const HeaderBottom = (props) => {
               <ul className="mainMenuWrap">
                 <li>
                   <a href="/">Home</a>
-                </li>
-                <li>
-                  <a href="/main-page">Main Page</a>
                 </li>
                 <li>
                   <a href="/about">About Us</a>
