@@ -122,7 +122,7 @@ const HomePage = () => {
   return (
     <Fragment>
       <header className="headerArea">
-        {/* <HeaderTop className="headerTop" /> */}
+        {/*  <HeaderTop className="headerTop" /> */}
         <HeaderBottom className="headerBottomArea" />
       </header>
       <HeroSlider sliders={heroSliders} className="heroSliderArea" />
@@ -132,7 +132,6 @@ const HomePage = () => {
         title="About Us"
         images={about}
         pragraphs={aboutText}
-        s
       />
       <ServiceArea
         className="ourServiceArea"
