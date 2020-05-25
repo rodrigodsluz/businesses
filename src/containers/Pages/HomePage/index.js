@@ -128,7 +128,7 @@ const HomePage = () => {
       <HeroSlider sliders={heroSliders} className="heroSliderArea" />
       <Service className="serviceArea" />
       <AboutWithButton
-        className="aboutArea"
+        className="aboutsArea"
         title="About Us"
         images={about}
         pragraphs={aboutText}
